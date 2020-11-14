@@ -27,7 +27,8 @@ Empresa do segmento de alimentação que produz e comercializa bolos caseiros na
 - Vue.js
 - Bootstrap
 - ValidatingToken
-- Banco de dados Postgres
+- Banco de dados PostgreSQL
+- MongoDB
 - Knex migrations
 - Web Token (JWT)
 
@@ -35,11 +36,14 @@ Empresa do segmento de alimentação que produz e comercializa bolos caseiros na
 ## 4. Funcionalidades
 
 - CRUD produtos;
-- gerar produção de bolos;
-- realizar vendas;
-- agendar encomenda;
-- relatório com os totais de valores devendidos no período;
-- relatório com os totais produtos vendidos no período.
+- CRUD usuários;
+- Login com perfil de acesso aos itens do menu;
+- Agendar encomendas;
+- Realizar vendas;
+- Listar produtos disponíveis para venda;
+- Gerar produção de bolos;
+- Relatório com os totais de valores das vendas no período;
+- Relatório com os totais produtos vendidos no período.
 
 <p align='center'>
 <img src='./page-app1.png' alt='page app'> 
