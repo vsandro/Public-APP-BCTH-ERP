@@ -1,5 +1,5 @@
 # APP-BCTH-ERP
-Sistema desenvolvido em ReactJs para empresa Bolo Caseiro TODA HORA
+Sistema desenvolvido em **Vue.js** para empresa Bolo Caseiro TODA HORA
 
 <p align='center'>
 <img src='./frontend/src/assets/logotipo.png' alt='logo do treinamento'> 
@@ -8,7 +8,7 @@ Sistema desenvolvido em ReactJs para empresa Bolo Caseiro TODA HORA
 
 ## 1. Introdução
 
-Aplicação desenvolvida em **ReactJs** para **Bolo Caseiro TODA HORA** no ano de 2020.
+Aplicação desenvolvida em **Vue.js** para **Bolo Caseiro TODA HORA** no ano de 2020.
 
 <p align='center'>
 <img src='https://i.giphy.com/media/WOg7qdA8bRrWutWH9Z/giphy.gif' alt='gif animado'> 
@@ -23,13 +23,13 @@ Empresa do segmento de alimentação que produz e comercializa bolos caseiros na
 
 ## 3. Tecnologias (Techs)
 
-> NodeJs
-> Vue
-> Bootstrap
-> ValidatingToken
-> Banco de dados Postgres
-> Knex migrations
-> Web Token (JWT)
+- NodeJs
+- Vue.js
+- Bootstrap
+- ValidatingToken
+- Banco de dados Postgres
+- Knex migrations
+- Web Token (JWT)
 
 
 ## 4. Funcionalidades
@@ -97,7 +97,7 @@ http://localhost:8081
 
 ## 6. Autoria
 
-Este projeto foi desenvolvido por [Sandro Vieira](https://www.linkedin.com/in/vsandro) conforme levantamento de requisitos feito com o cliente.
+Este projeto foi desenvolvido por [Sandro Vieira](https://www.linkedin.com/in/vsandro) conforme levantamento de requisitos realizado com o cliente.
 
 
 
